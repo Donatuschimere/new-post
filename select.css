@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    overflow-x: hidden;
+}
+.top-container {
+    background-color:lightcyan;
+}
+.top-cloud {
+    width: 180px;
+    margin-left: 450px;
+    margin-top: 100px;
+}
+.bottom-cloud {
+    width: 180px;
+    margin-right: 600px;
+    margin-bottom: 400px;
+}
+.hello{
+    font-size: 3rem;
+    font-family: "Sacramento", cursive;
+    color: aquamarine;
+}
+.mountian{
+    width: 700px;
+    text-align: center;
+    margin-top: -200rem;
+     
+}
+.skill-image{
+    width: 100px;
+    margin-right: 30rem;
+
+}
+.skill-image2{
+    width: 100px;
+    margin-left: 30rem;
+}
+hr {
+    width: 80px;
+    border-width: 5px;
+    border-style: dotted;
+    height: 2rem;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-color: antiquewhite;
+}
+h2{
+    font-size: 2rem;
+    font-family: "Merriweather", cursive;
+    color: aquamarine;
+}
+h3{
+    font-size: 1.orem;
+    font-family: "Merriweather", cursive;
+    color: aquamarine;
+}
+
+.my-btn, .ancho{
+    background-color: aquamarine;
+    width: 50%;
+    height: 3rem;
+    color: black;
+    text-decoration:none;
+    border-radius: 0.4rem;
+}
+
+.bottom-container {
+    background-color: rgba(127, 255, 172, 0.205);
+    margin-top: 2rem;
+    padding: 2rem;
+}
+.footer-link {
+    padding: 3rem;
+    margin-top: 1px;
+    color: aquamarine;
+}
+.copyright {
+    margin-top: 80px;
+    color: aquamarine;
+}
